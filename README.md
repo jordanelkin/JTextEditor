@@ -1,2 +1,2 @@
 # JTextEditor
-Text Editor Project 
+LightWeight Text Editor Project written in Java 
