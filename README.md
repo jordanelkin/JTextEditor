@@ -1,0 +1,2 @@
+# JTextEditor
+Text Editor Project 
